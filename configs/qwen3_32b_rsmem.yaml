@@ -1,0 +1,13 @@
+model_name: qwen3-32b
+base_url: "http://localhost:8000/v1"
+api_key: ""
+enable_hkg: true
+enable_far: true
+autoplanning: true
+sample: 248
+repeat: 1
+max_attempts: 3
+trajectory_strategy: full_tool_result_only
+agent_config_path: configs/agent_mcp.json
+questions_json: benchmark/question.json
+output_base_dir: runs/qwen3_32b/rsmem

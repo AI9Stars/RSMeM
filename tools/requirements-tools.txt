@@ -1,0 +1,19 @@
+# Optional dependencies for MCP tool scripts (tools/*.py).
+# Install with Tsinghua mirror:
+#   pip install -r tools/requirements-tools.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+fastmcp==2.11.3
+mcp==1.12.4
+GDAL==3.8.4
+rasterio==1.4.3
+affine
+pyproj
+opencv-python
+scikit-image
+scikit-learn
+scipy
+pandas
+statsmodels
+matplotlib
+tifffile
+imageio

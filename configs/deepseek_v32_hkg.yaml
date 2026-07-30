@@ -1,0 +1,13 @@
+model_name: deepseek-chat
+base_url: "https://api.deepseek.com"
+api_key: ""
+enable_hkg: true
+enable_far: false
+autoplanning: true
+sample: 248
+repeat: 1
+max_attempts: 3
+trajectory_strategy: full_tool_result_only
+agent_config_path: configs/agent_mcp.json
+questions_json: benchmark/question.json
+output_base_dir: runs/deepseek_v32/hkg

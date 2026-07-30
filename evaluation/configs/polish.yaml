@@ -1,0 +1,7 @@
+# OpenAI-compatible model used to normalize final answers before evaluation.
+# Prefer environment variables for credentials:
+#   export RSMEM_BASE_URL="https://your-endpoint/v1"
+#   export RSMEM_API_KEY="..."
+model: "deepseek-v4-pro"
+base_url: ""
+api_key: ""

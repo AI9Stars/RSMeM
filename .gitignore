@@ -1,0 +1,71 @@
+.DS_Store
+*.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+configs/*_local.yaml
+evaluation/configs/*_local.yaml
+
+# Experiment and evaluation outputs
+runs/
+output/
+results/
+logs/
+tmp/
+nohup.out
+*.chat
+*.log
+*.pid
+*.jsonl
+evaluation/output/
+evaluation/results/
+
+# Large benchmark data (download separately)
+benchmark/data/
+benchmark/data[0-9]*/
+benchmark/EarthBench/
+benchmark/supported_data/
+benchmark/.data*_done
+benchmark/question[0-9]*.json
+
+# Tool-generated scratch data and service state
+tools/deploy_tools/
+tools/deploy_tools/benchmark/
+tools/deploy_tools/question[0-9]*/
+tools/deploy_tools/logs/
+tools/deploy_tools/pids/
+tools/deploy_tools/*_server_results/
+
+# Model weights (download separately)
+models/*
+!models/README.md
+!models/WEIGHTS_BAIDU.md
+models_release/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Maintainer-only packaging/upload helpers
+tools/deploy_tools/pack_weights_for_baidu.sh
+tools/deploy_tools/upload_weights_baidu.sh
+
+# Local manuscript and timestamped work directories
+paper_latex/
+2026*/
+
+tests/
+
+THIRD_PARTY_AUDIT.md
