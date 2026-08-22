@@ -3,7 +3,7 @@
 # ***RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation***
 
 
-[![ACL 2026 Main](https://img.shields.io/badge/ACL-2026-orange.svg)](https://2026.aclweb.org/) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![arXiv](https://img.shields.io/badge/arXiv-2607.24772-b31b1b.svg)](https://arxiv.org/abs/2607.24772)
+[![ACL 2026 Main](https://img.shields.io/badge/ACL-2026-orange.svg)](https://2026.aclweb.org/) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![arXiv](https://img.shields.io/badge/arXiv-2607.24772-b31b1b.svg)](https://arxiv.org/abs/2607.24772) [![ModelScope Studio](https://img.shields.io/badge/ModelScope-Interactive_Demo-624AFF.svg)](https://modelscope.cn/studios/wbx929/RSMeM)
 
 </div>
 
@@ -13,6 +13,7 @@
 </div>
 
 ## 🔥 News
+- **[2026/08]** 🎮 Try the interactive demo on [ModelScope Studio](https://modelscope.cn/studios/wbx929/RSMeM).
 - **[2026/08]** 🚀 Released the **experiment configs** (5 backbones × baseline/RSMeM + HKG/FAR ablations) and the **evaluation pipeline** (EarthBench & ThinkGeo).
 - **[2026/07]** 📦 Code will be released progressively.
 - **[2026/05]** 🎉 ***RSMeM*** is accepted to **ACL 2026 Main Conference**! [[arXiv](https://arxiv.org/abs/2607.24772)]
