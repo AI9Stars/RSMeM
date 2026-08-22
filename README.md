@@ -3,7 +3,7 @@
 # ***RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation***
 
 
-[![ACL 2026 Main](https://img.shields.io/badge/ACL-2026-orange.svg)](https://2026.aclweb.org/) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![arXiv](https://img.shields.io/badge/arXiv-2607.24772-b31b1b.svg)](https://arxiv.org/abs/2607.24772) [![ModelScope Studio](https://img.shields.io/badge/ModelScope-Interactive_Demo-624AFF.svg)](https://modelscope.cn/studios/wbx929/RSMeM)
+[![arXiv](https://img.shields.io/badge/arXiv-2607.24772-b31b1b.svg)](https://arxiv.org/abs/2607.24772) [![ModelScope Studio](https://img.shields.io/badge/ModelScope-Interactive_Demo-624AFF.svg)](https://modelscope.cn/studios/wbx929/RSMeM) [![ACL 2026 Main](https://img.shields.io/badge/ACL-2026-orange.svg)](https://2026.aclweb.org/) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 </div>
 
