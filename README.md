@@ -13,6 +13,9 @@
 </div>
 
 ## 🔥 News
+
+- **[2026/10]** 🏆 RSMeM won **Second Prize** in the **Open Source GeoAI Practice Challenge at IEEE APGRSS 2026**.
+- **[2026/10]** 💻 The source code for **RSMeM Studio**, our end-to-end interactive remote sensing agent platform deployed on ModelScope, is now publicly available. Explore the [Studio repository](https://github.com/Bensonwu929/RSMeM-Studio) or [try the live demo](https://modelscope.cn/studios/wbx929/RSMeM).
 - **[2026/08]** 🎮 Try the interactive demo on [ModelScope Studio](https://modelscope.cn/studios/wbx929/RSMeM).
 - **[2026/08]** 🚀 Released the **experiment configs** (5 backbones × baseline/RSMeM + HKG/FAR ablations) and the **evaluation pipeline** (EarthBench & ThinkGeo).
 - **[2026/07]** 📦 Code will be released progressively.
@@ -42,6 +45,14 @@
 - [x] Release support for EarthBench
 - [ ] Release support for ThinkGeo
 
+
+## 🌍 Interactive Studio
+
+RSMeM Studio provides an end-to-end interactive platform for remote sensing analysis on ModelScope. It supports perception tasks such as object detection, segmentation, and change detection, as well as quantitative parameter retrieval, including land surface temperature and water turbidity.
+
+Users can submit natural-language requests, upload imagery, and inspect tool execution and analysis results through the web interface. The Studio implementation is available in a separate repository.
+
+**[Try the live demo](https://modelscope.cn/studios/wbx929/RSMeM)** · **[Explore the Studio source code](https://github.com/Bensonwu929/RSMeM-Studio)**
 
 ## 🚀 Getting Started
 
